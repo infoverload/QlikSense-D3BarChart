@@ -1,0 +1,11 @@
+{
+	"name": "D3 Bar Chart",
+	"description": "A basic bar chart made with D3",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "extension",
+	"author": "",
+	"dependencies": {
+		"qlik-sense": ">=1.0.x"
+	}
+}
